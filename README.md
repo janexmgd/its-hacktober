@@ -6,6 +6,5 @@ This repo is used to participate in hacktoberfest
 
 # Contributor
 
-<a href="https://github.com/janexmgd/its-hacktober/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=janexmgd/its-hacktober" />
-</a>
+- <a href='https://www.github.com/janexmgd'>janexmgd</a>
+- <a href='https://www.github.com/Astereixe'>Astereixe</a>
